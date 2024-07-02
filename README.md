@@ -34,6 +34,3 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 <br />
 
-  <a href="https://twitter.com/codewithnomi_"><img alt="Twitter" title="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-</p>
-
